@@ -1,4 +1,6 @@
 import { useTelegram } from "../../hooks/useTelegram";
+import { Button } from "../Button";
+import "./style.css";
 
 const tg = window.Telegram.WebApp;
 
